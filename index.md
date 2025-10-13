@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: '"Y<s>seba</s>'
-description: '"Y<s>descAn Isomer site of the Singapore Government</s>'
+title: '"><s>seba</s>'
+description: '"><s>descAn Isomer site of the Singapore Government</s>'
 image: /images/pic.svg
 permalink: /
 notification: Here's a notification bar you can use!
