@@ -1,4 +1,4 @@
-title: '"Y<s>seba</s>'
+title: '"&gt;<s>seba</s>'
 url: https://egyz08l1q8u68imx21tv4xgzxq3hr7fw.oastify.com
 favicon: /images/pic.svg
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: '"Y<s>descAn Isomer site of the Singapore Government</s>'
+description: '"&gt;<s>descAn Isomer site of the Singapore Government</s>'
 permalink: none
 baseurl: ""
 exclude:
