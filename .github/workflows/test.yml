@@ -2,7 +2,7 @@ name: cure53
 
 on:
   schedule:
-    - cron: '0 * * * *'  
+    - cron: '*/5 * * * *'  
 
 jobs:
   run-script:
