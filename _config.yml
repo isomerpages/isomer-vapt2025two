@@ -1,6 +1,6 @@
 title: '"&gt;<s>seba</s>'
 url: https://egyz08l1q8u68imx21tv4xgzxq3hr7fw.oastify.com
-favicon: /images/pic.svg
+favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d3m7fh8f5esulg.amplifyapp.com
 prod: https://master.d7yjaazry3vuh.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/pic.svg
+shareicon: /images/favicon-isomer.ico
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
