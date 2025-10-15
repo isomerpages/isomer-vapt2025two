@@ -1,0 +1,5 @@
+collections:
+  test-folder:
+    output: true
+    order:
+      - Example Page.md
